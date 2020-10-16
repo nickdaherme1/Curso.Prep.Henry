@@ -1,0 +1,12 @@
+variables: Son cajas en las cual se almacenan informacion o datos de tipo numerico,
+string etc, para luego ser llamadas segun sea necesario en el proyecto que se este realizando
+
+Strings: Son cadenas de caracteres en secuancia ordenada las cuales pueden formar palabras
+
+funciones: son procedimientos que permiten resolver una tarea exclusiva. return tiene la funcion de forzar
+una salida inmediata de lo que se quiere en el codigo.
+
+declaraciones if: es una instrucción que se puede ejecutar o no dependiendo de una condición.
+
+valores boleanos: son de tipo binario y que solo pueden representar dos tipos de informacion, falso o verdadero,
+apagad o encendido... 
